@@ -1,8 +1,8 @@
 ## Welcome to Tansi's Digital Portfolio 
 
+![flower](Bright%20Pink%20Flower.jpg)
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This picture was taken at Whintey High School. Nature is a beautiful thing to capture with the power of a camera and flowers, in particular, are my favorite things to take pictures of. The vibrancy of colors and the blur of the background can be done using photo editing softwares and can really enhance the image. 
 
 ### Markdown
 
