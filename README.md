@@ -1,8 +1,12 @@
 ## Welcome to Tansi's Digital Portfolio 
 
+This page is designed to showcase some photography I did while taking a Digital Photography course at my high school. Digital Photography was a class that I thoroughly enjoyed because it allowed me to use my creativity to capture some beautiful images and use editing softwares to further improve my photographs. 
+
+### Flowers
+
 ![flower](Bright%20Pink%20Flower.jpg)
 
-This picture was taken at Whintey High School. Nature is a beautiful thing to capture with the power of a camera and flowers, in particular, are my favorite things to take pictures of. The vibrancy of colors and the blur of the background can be done using photo editing softwares and can really enhance the image. Furthermore, the contrast in this image of the pink and green adds to overall picture and makes it more appealing to the eye. 
+This picture was taken at Whintey High School. Nature is a beautiful thing to capture with the power of a camera, and flowers, in particular, are my favorite things to take pictures of. The vibrancy of colors and the blur of the background can be done using photo editing softwares and can really enhance the image. Furthermore, the contrast in this image of the pink and green adds to overall picture and makes it more appealing to the eye. 
 
 ### Markdown
 
