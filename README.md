@@ -15,8 +15,7 @@ These picture were taken at Whintey High School under the afternoon light. Natur
 Close-up images are really effective in capturing the small details and bringing life to the main subject in the picture. 
 
 
-
-### Jekyll Themes
+### 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tansi2/digitalphotography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
