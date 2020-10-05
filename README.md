@@ -19,5 +19,5 @@ Close-up images are really effective in capturing the small details and bringing
 I think the true beauty of this image lies in the different colors and shades of the leaves that complement each other and the texture of the leaves as they look dried and crisp. 
 
 ### To view more images
-,
-In order to view more of photography, such as black and white images, portraits, candid, nature, and food, visit [this](https://photography842.wixsite.com/tansigosalia) website.
+
+In order to view more of my photography, such as black and white images, portraits, candid, nature, and food, visit [this](https://photography842.wixsite.com/tansigosalia) website.
