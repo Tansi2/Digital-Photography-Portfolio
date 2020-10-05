@@ -20,4 +20,4 @@ I think the true beauty of this image lies in the different colors and shades of
 
 ### To view more images
 
-In order to view more of my photography, such as black and white images, portraits, candids, nature, and food, visit [this](https://photography842.wixsite.com/tansigosalia) website.
+In order to view more of my photography, such as black and white images, portraits, candids, nature, and food, visit [my](https://photography842.wixsite.com/tansigosalia) website.
